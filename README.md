@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ianxs
+- 👋 Hi, I’m Krux
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA as well as Web Development
 
